@@ -28,7 +28,7 @@ if(isset($_POST['register'])){
   <link href="assets/img/polijelogo.png" rel="icon" class="logo">
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 	<link rel="stylesheet" type="text/css" href="assets/vendor/bootstrap/css/bootstrap.min.css">
-	<link rel="stylesheet" type="text/css" href="assets/css/k1/style_daftar.css">
+	<link rel="stylesheet" type="text/css" href="assets/css/style_daftar.css">
   <script src="https://kit.fontawesome.com/2aca802f76.js" crossorigin="anonymous"></script>
 <!--   <style type="text/css">
     body{
@@ -64,7 +64,7 @@ if(isset($_POST['register'])){
     <hr>
       
     <div class="form-group text-right">
-    <button type="submit" class="btn btn-info" name="register"><i class="fas fa-sign-in-alt"></i> Daftar</button>
+    <button type="submit" class="btn btn-success" name="register"><i class="fas fa-sign-in-alt"></i> Daftar</button>
     </div>
   </form>
 
