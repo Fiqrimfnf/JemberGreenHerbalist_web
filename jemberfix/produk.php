@@ -58,7 +58,7 @@ $baris_data = mysqli_fetch_array($ambil_data);
           <li><a href="#team">Katalog</a></li>
           <?php if (!isset($_SESSION['id_level'])): ?>
           <li><a href="login.php">Login</a></li>
-          <li><a href="register.php">Daftar</a></li>
+          <li><a href="daftar.php">Daftar</a></li>
 
           <?php elseif ($_SESSION['id_level']=="2"): ?>
             <li class="drop-down"><a href="">@<?php echo $_SESSION['pelanggan']['username']; ?></a>

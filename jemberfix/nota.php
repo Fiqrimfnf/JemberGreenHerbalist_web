@@ -56,7 +56,7 @@
 
       <nav class="nav-menu d-none d-lg-block">
         <ul>
-        <li class="active"><a href="index.html">Beranda</a></li>
+        <li class="active"><a href="index.php">Beranda</a></li>
           <li><a href="#team">Katalog</a></li>
           <?php if (!isset($_SESSION['id_level'])): ?>
           <li><a href="login.php">Login</a></li>

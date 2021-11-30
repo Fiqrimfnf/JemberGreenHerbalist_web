@@ -57,7 +57,7 @@
         </div>
         <button type="submit" class="btn text-white" name="login">Login</button>
 
-        <div class="link login-link text-center">Not yet a member? <a href="register.php">Signup now</a></div>
+        <div class="link login-link text-center">Not yet a member? <a href="daftar.php">Signup now</a></div>
       </form>
     </div>
   </div>
