@@ -14,7 +14,7 @@ if ($_SESSION['id_level']=="") {
                 <div class="sidebar-brand-icon rotate-n-15">
                     
                 </div>
-                <div class="sidebar-brand-text mx-2">Green Herbalist Jember</div>
+                <div class="sidebar-brand-text mx-2"> Jember Green Herbalist</div>
             </a>
 
             <!-- Divider -->

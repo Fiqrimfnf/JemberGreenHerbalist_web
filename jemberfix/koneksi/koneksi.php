@@ -1,4 +1,4 @@
 <?php
 //membuat koneksi dengan database
-$koneksi = mysqli_connect("localhost","root","","db_herbalistfix");
+$koneksi = mysqli_connect("localhost","root","","percobaan");
 ?>

@@ -15,8 +15,8 @@ ob_start();
         <title></title>
          </head>
     <body>
-    <h3 align="center">E - BUSI POLIJE</h3>
-    <h5 align="center">Jl. Mastrip Kotak Pos 164</h5>
+    <h3 align="center">Jember Green Herbalist</h3>
+    <h5 align="center">Jl. Kaliurang No.63, Krajan Barat</h5>
     <h5 align="center">Kabupaten Jember</h5><hr><br>
 
 
